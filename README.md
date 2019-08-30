@@ -2,20 +2,20 @@
 Thinking in java my solution
 
 Done:
-       - chapter 01 Everything Is an Object 
-       - chapter 02 Operators
-       - chapter 03 Controlling Execution
-       - chapter 04 Initialization & Cleanup
-       - chapter 05 Access Control
-       - chapter 06 Reusing Classes
-       - chapter 07 Polymorphism
-       - chapter 08 Interfaces
-       - chapter 09 Inner Classes
-       - chapter 10 Holding Your Objects 
-       - chapter 11 Error Handling with Exceptions 
-       - chapter 12 Strings
-       - chapter 13 Type Information 
-       - chapter 15 Arrays 
+- chapter 01 Everything Is an Object 
+- chapter 02 Operators
+- chapter 03 Controlling Execution
+- chapter 04 Initialization & Cleanup
+- chapter 05 Access Control
+- chapter 06 Reusing Classes
+- chapter 07 Polymorphism
+- chapter 08 Interfaces
+- chapter 09 Inner Classes
+- chapter 10 Holding Your Objects 
+- chapter 11 Error Handling with Exceptions 
+- chapter 12 Strings
+- chapter 13 Type Information 
+- chapter 15 Arrays 
               
 Started:
        - chapter 14 Generics (1-11) / 42
