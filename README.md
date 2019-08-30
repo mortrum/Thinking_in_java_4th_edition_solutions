@@ -18,12 +18,12 @@ Done:
 - chapter 15 Arrays 
               
 Started:
-       - chapter 14 Generics (1-11) / 42
-       - chapter 16 Containers in Depth (1-7,9,11-22,26,27) / 42
-       - chapter 17 I/O (1,2,7-14) / 33
-       - chapter 18 Enumerated Types (1-9) / 11
+- chapter 14 Generics (1-11) / 42
+- chapter 16 Containers in Depth (1-7,9,11-22,26,27) / 42
+- chapter 17 I/O (1,2,7-14) / 33
+- chapter 18 Enumerated Types (1-9) / 11
        
 Left:
-       - chapter 19 Annotations
-       - chapter 20 Concurrency
-       - chapter 21 Graphical User Interfaces
+- chapter 19 Annotations
+- chapter 20 Concurrency
+- chapter 21 Graphical User Interfaces
